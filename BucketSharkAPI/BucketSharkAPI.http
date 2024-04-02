@@ -1,0 +1,6 @@
+@BucketSharkAPI_HostAddress = http://localhost:5116
+
+GET {{BucketSharkAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
